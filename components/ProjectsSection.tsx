@@ -9,7 +9,7 @@ const projects = [
     name: "Tradeline",
     description:
       "My tasks are create some reusable, components to build an e-commerce web ( product components, block components, .... ), create a search page, details product, ..etc",
-    image: "/TRADE.png",
+    image: "https://i.ibb.co/m8Y6s00/TRADE.png",
     role:"Front-End Developer",
     link: "https://tradeline.vn/",
   },
@@ -17,14 +17,14 @@ const projects = [
     name: "Di Dộng Việt (CMS)",
     description:
       "Create a web app to help customers customize the main web layout, and manage products, orders, customers, and comments, ...",
-    image: "/CMSDDV.png",
+    image: "https://i.ibb.co/H7Yg3WN/CMSDDV.png",
     role:"Front-End Developer",
     link: "https://didongviet.vn/",
   },
   {
     name: "Transport Management System",
     description: "A webapp to help customers take orders and create delivery orders, change delivery orders status, manage orders, bills, drivers, customers, assign driver to bill/vehicle, print bills, orders ..",
-    image: "/TMS.png",
+    image: "https://i.ibb.co/Qm2KwVJ/TMS.png",
     role:"Fullstack Developer",
     link: "https://omsdev.ntlogistics.vn",
   },
@@ -32,7 +32,7 @@ const projects = [
     name: "Omnichannel System Management",
     description:
       "A web app to help customers create orders offline (pos), online ( e-commerce platform ), manage products, orders, and customer from different sources, ...",
-    image: "/OMS.png",
+    image: "https://i.ibb.co/Ytz4wrB/OMS.png",
     role:"Fullstack Developer",
     link: "https://omsdev.ntlogistics.vn",
   },
