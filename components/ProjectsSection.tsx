@@ -26,7 +26,7 @@ const projects = [
     description: "A webapp to help customers take orders and create delivery orders, change delivery orders status, manage orders, bills, drivers, customers, assign driver to bill/vehicle, print bills, orders ..",
     image: "https://i.ibb.co/Qm2KwVJ/TMS.png",
     role:"Fullstack Developer",
-    link: "https://omsdev.ntlogistics.vn",
+    link: "https://tms.duongtruc.vn",
   },
   {
     name: "Omnichannel System Management",
