@@ -10,8 +10,13 @@ const skills = [
   { skill: "Redux" },
   { skill: "Next.js" },
   { skill: "Tailwind CSS" },
+  { skill: "Express.js" },
+  { skill: "Node.js" },
+  { skill: "Mongoose" },
+  { skill: "Socket.io" },
   { skill: "Git" },
   { skill: "GitHub" },
+  
 ]
 
 const AboutSection = () => {
@@ -32,7 +37,7 @@ const AboutSection = () => {
               Hi, my name is Hà Minh Tân and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> Front-End Developer
+              <span className="font-bold">{" driven"}</span> Fullstack Developer
                in Hồ Chí Minh City.
             </p>
             <br />
